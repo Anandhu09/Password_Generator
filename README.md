@@ -16,7 +16,7 @@ This is a simple React app that generates random passwords based on user prefere
 - Material-UI for UI components
 - notistack for showing notifications
 
-## How to Use
+## How to Use   
 
 1. Clone the repository to your local machine.
 2. Install dependencies using `npm install`.

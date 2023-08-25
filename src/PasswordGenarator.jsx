@@ -5,7 +5,6 @@ import {
   FormControlLabel,
   List,
   ListItem,
-  Snackbar,
   Typography
 } from "@mui/material";
 import FileCopyIcon from "@mui/icons-material/FileCopy";

@@ -1,6 +1,6 @@
 import PasswordGenarator from './PasswordGenarator';
 import './App.css';
-import { SnackbarProvider, useSnackbar } from 'notistack'; // Import useSnackbar from notistack
+import { SnackbarProvider } from 'notistack'; 
 function App() {
   return (
     <SnackbarProvider maxSnack={1} 
